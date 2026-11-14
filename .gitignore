@@ -1,0 +1,13 @@
+node_modules/
+.clasprc.json
+*.log
+
+# 自分の Apps Script・スプレッドシートの ID（各自 clasp create-script で作る）
+.clasp.json
+
+# クライアントから受け取った見本記事。ひな形は src/SampleArticle.js.example
+sample-article.md
+src/SampleArticle.js
+
+# 納品資料用の画面キャプチャ
+screenshots/
